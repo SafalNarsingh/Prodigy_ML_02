@@ -1,6 +1,6 @@
 # 🧍‍♂️🧍‍♀️ Customer Segmentation in Python
 
-Prodigy Infotech Machine Learning Task 2
+#### Prodigy Infotech Machine Learning Task 2
 
 This project performs customer segmentation using unsupervised machine learning techniques on a mall customer dataset. It aims to group customers based on key features such as income and spending behavior to help businesses target specific customer segments more effectively.
 
