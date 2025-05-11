@@ -40,6 +40,7 @@ jupyter notebook customers.ipynb
  ```
 
  </br>
+ 
 
 ### 📦 Requirements
 
@@ -50,6 +51,16 @@ jupyter notebook customers.ipynb
 - scikit-learn
 
 </br>
+
+### 📁 Files
+
+```
+.
+├── data_file/
+│   └── Mall_Customers.csv
+├── customer.ipynb
+└── readme.md'
+```
 
 
 ### 🔧 Features
@@ -64,15 +75,6 @@ jupyter notebook customers.ipynb
 
 </br>
 
-### 📁 Files
-
-```
-.
-├── data_file/
-│   └── Mall_Customers.csv
-├── customer.ipynb
-└── readme.md'
-```
 
 
 
