@@ -44,7 +44,6 @@ jupyter notebook customers.ipynb
 
 ### 📦 Requirements
 
-- numpy
 - pandas
 - matplotlib
 - seaborn
